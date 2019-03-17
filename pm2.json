@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "coderunner",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
